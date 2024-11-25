@@ -9,7 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this repository, you will find my **university projects** as well as **works that I did in my free time** to practice and further develop my knowledge and skills in various areas of interest.
 
 You can explore the details of the following projects on my [website]() **soon to be available** 
-> **Note**: The password is available on my cv
+> **Note**: The password is available on my cv.
 
 ## W2E
 
