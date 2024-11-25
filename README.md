@@ -5,6 +5,9 @@ Hi, I’m Leonor! I have a strong academic foundation in Management and Marketin
 During my studies, I honed my ability to work with complex datasets and developed a knack for identifying patterns and actionable insights. I’ve also gained hands-on experience in data visualization, statistical analysis, and workflow optimization, which I believe are key assets in supporting impactful decision-making. Certifications like the IBM Data Science Specialization and Scrum Master further complement my skills.
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+You can explore the details of the following projects on my [website] **soon to be available**
+> **Note**: The passwoard is available on my cv
+
 ## W2E
 **Overview**
 
@@ -16,7 +19,5 @@ As part of the project, we developed an operational plan to outline how the laun
 On the financial side, we prepared projections and conducted a break-even analysis to set realistic sales targets. Funding options, such as grants and crowdfunding, were also explored as potential ways to support the hypothetical launch.
 
 
-**To get more information of this project please clike here**
-Coming soon
 
-> Note: the password is available on my cv
+
