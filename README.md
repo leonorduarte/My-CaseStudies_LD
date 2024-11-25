@@ -1,4 +1,4 @@
-# My-CaseStudies_LD
+# MyPersonal_Works_LD
 ## About
 Hi, I’m Leonor! I have a strong academic foundation in Management and Marketing Intelligence and am currently pursuing a Master’s in Data-Driven Marketing. My passion lies in combining data analytics and strategic insights to solve real-world problems. I am excited to bring my technical and analytical skills to the fields of data science and project management as an entry-level data specialist and project leader.
 
