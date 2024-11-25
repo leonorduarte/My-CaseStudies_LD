@@ -5,6 +5,9 @@ Hi, I’m Leonor! I have a strong academic foundation in Management and Marketin
 During my studies, I honed my ability to work with complex datasets and developed a knack for identifying patterns and actionable insights. I’ve also gained hands-on experience in data visualization, statistical analysis, and workflow optimization, which I believe are key assets in supporting impactful decision-making. Certifications like the IBM Data Science Specialization and Scrum Master further complement my skills.
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
+# Summary of This Repository
+In this repository, you will find my university projects as well as works that I did in my free time to practice and further develop my knowledge and skills in various areas of interest.
+
 You can explore the details of the following projects on my [website]() **soon to be available** 
 > **Note**: The password is available on my cv
 
