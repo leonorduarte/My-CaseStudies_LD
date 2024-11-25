@@ -19,8 +19,15 @@ As part of the project, we developed an operational plan to outline how the laun
 On the financial side, we prepared projections and conducted a break-even analysis to set realistic sales targets. Funding options, such as grants and crowdfunding, were also explored as potential ways to support the hypothetical launch.
 
 ## Finley
+**soon to be available** 
+
 ## Nature in a Box
+**soon to be available** 
+
 ## Optimizing Recruitment Process: A BPM Lifecycle Approach
+**soon to be available** 
+
+## Galp Case Study
 
 
 
