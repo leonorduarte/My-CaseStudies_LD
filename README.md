@@ -6,7 +6,7 @@ During my studies, I honed my ability to work with complex datasets and develope
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 You can explore the details of the following projects on my [website]() **soon to be available** 
-> **Note**: The passwoard is available on my cv
+> **Note**: The password is available on my cv
 
 ## W2E
 **Overview**
