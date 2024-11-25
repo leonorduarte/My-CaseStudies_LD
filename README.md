@@ -12,7 +12,6 @@ You can explore the details of the following projects on my [website]() **soon t
 > **Note**: The password is available on my cv
 
 ## W2E
-**Overview**
 
 The W2E – Water to Evolution project focuses on tackling the global problem of access to clean drinking water. Our solution is a portable purifier powered by advanced UV technology. As the team leader, I helped guide the project’s planning and execution to make sure everything stayed on track.
 We started by digging into market research to understand what people actually need. It became clear there was strong interest in clean water solutions from outdoor enthusiasts, urban communities, and health-conscious individuals. These insights helped shape the purifier’s design, prioritizing effectiveness, portability, and sustainability.
