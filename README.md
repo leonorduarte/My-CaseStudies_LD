@@ -17,5 +17,6 @@ On the financial side, we prepared projections and conducted a break-even analys
 
 
 **To get more information of this project please clike here**
+Coming soon
 
 > Note: the password is available on my cv
