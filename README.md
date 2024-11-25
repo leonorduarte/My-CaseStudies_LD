@@ -28,6 +28,7 @@ On the financial side, we prepared projections and conducted a break-even analys
 **soon to be available** 
 
 ## Galp Case Study
+**soon to be available** 
 
 
 
