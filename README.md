@@ -31,10 +31,6 @@ On the financial side, we prepared projections and conducted a break-even analys
 ## Optimizing Recruitment Process: A BPM Lifecycle Approach
 **soon to be available** 
 
-## Galp Case Study: Marketing Strategy
-**soon to be available** 
-
-
 
 
 
